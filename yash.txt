@@ -4,3 +4,4 @@ Hi again I am learning GIT .. It so cool .. let's see what happens .. !!
 Hi this is second day of devops .. and this freaking cool .. Github .. desktop .. UI I love wait where are you going .. I am leaving you .. wait .. running right back from the ... love the way you lie 
 
 
+Hi I am creating the file in other branch .. this is like another copy but won't be reflecting to the master .. untill and unless the pull is requested .. its great feature
