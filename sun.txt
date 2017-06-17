@@ -3,3 +3,5 @@ Hi again I am learning GIT .. It so cool .. let's see what happens .. !!
 
 This is another line adding to .. check the use of GIT RESET HEAD <FileName>
 let's see
+
+i have edited this - preeti
